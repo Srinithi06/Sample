@@ -6,4 +6,4 @@ for i in range(0,ccom):
         if l[i]+[j]==ddom and i!=j:
             b=1
             break
- print('yes' if b else 'no')
+ print("yes" if b else "no")
